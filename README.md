@@ -1,19 +1,9 @@
-
-
-  
-## About Me
-
-Hi my name is arya 
-
-
-## Get in Touch
-
-You can reach out to me via:
-
-- Figma: https://www.figma.com/@aryawardhana
-
-## GitHub Stats
-
-  <img src="https://indogithubers-badge.vercel.app/badge?username=aryy-hue" alt="IndoGitHubers Badge">
-
-
+  <h3 id="hello-nerds">Hello, lads 👋</h3>
+<p align="center">
+  <img src="https://cdn3.emoji.gg/emojis/9332-pixelcyanfire.gif" width="27px">
+  <br><br>
+  <samp>
+My name is Arya, an AI enthusiast and front-end developer from Indonesia. I'm currently studying Informatics at Institut Teknologi Nasional Bandung and passionate about UI/UX, web development, and building impactful tech for education and society.<br><br>
+Contact me on <a href="https://www.linkedin.com/in/arya-wardhana-515bb127b/">LinkedIn</a> or <a href="mailto:wardhana1903@gmail.com">Send an Email</a>
+  </samp>
+</p>
