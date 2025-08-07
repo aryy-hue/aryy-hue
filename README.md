@@ -1,4 +1,3 @@
-  <h3 id="hello-nerds">Hello, lads 👋</h3>
 <p align="center">
   <img src="https://cdn3.emoji.gg/emojis/9332-pixelcyanfire.gif" width="27px">
   <br><br>
